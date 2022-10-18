@@ -3,7 +3,7 @@
 此網站以分析機車交通事故為主題，將分析結果以視覺化的方式放入網頁中，並自行做編排。
 這個網站於2018年完成，因此分析的年份為2013-2017。
 
-<img src="./imgs/title.PNG" width = "500" height = "300" div align=center />
+<img src="./imgs/title.PNG" width = "600" height = "250" div align=center />
 
 ## 網頁介紹
 - 發想(動機) 
@@ -74,6 +74,6 @@
 
 最後我們有嵌入tableau這個程式將我們所有分析的結果做一個總表及互動，讓大家可以根據不同年份的資料，去選擇不同的客群，同時了解到交通事故在各個時段發生的案件量統計、針對不同性別與年齡層的分析。
 
-<img src="./imgs/operation.PNG" width = "500" height = "300" div align=center />
+<img src="./imgs/operation.PNG" width = "450" height = "300" div align=center />
 
-<img src="./imgs/operation1.PNG" width = "500" height = "300" div align=center />
+<img src="./imgs/operation1.PNG" width = "450" height = "300" div align=center />
