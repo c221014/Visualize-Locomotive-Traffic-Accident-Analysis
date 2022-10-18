@@ -52,9 +52,13 @@
 
 此處我們嵌入了infogram這個程式來呈現互動式的圖表，我們可以透過點擊下方的分類決定是否讓這個類別出現在圖表的統計上。
 
+<div align=center>
 <img src="./imgs/interactive.PNG" width = "400" height = "300" div align=center />
+</div>
 
+<div align=center>
 <img src="./imgs/interactive1.PNG" width = "400" height = "300" div align=center />
+</div>
 
 **結論** 
 
@@ -74,6 +78,10 @@
 
 最後我們有嵌入tableau這個程式將我們所有分析的結果做一個總表及互動，讓大家可以根據不同年份的資料，去選擇不同的客群，同時了解到交通事故在各個時段發生的案件量統計、針對不同性別與年齡層的分析。
 
+<div align=center>
 <img src="./imgs/operation.PNG" width = "450" height = "300" div align=center />
+</div>
 
+<div align=center>
 <img src="./imgs/operation1.PNG" width = "450" height = "300" div align=center />
+</div>
