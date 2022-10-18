@@ -64,7 +64,7 @@
 
 另外我們有自製一份infographic去簡單的概括我們整個主題的內容與項目。
 
-<img src="./imgs/infographic.png" width = "500" height = "300" div align=center />
+<img src="./imgs/infographic.png" width = "200" height = "600" div align=center />
 
 **實際操作**
 
