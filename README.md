@@ -64,7 +64,7 @@
 
 此處我們搭配一些政府的政策去分析交通事故的一個結論
 
-<img src="./imgs/conclusion.PNG" width = "500" height = "200" div align=center />
+<img src="./imgs/conclusion.PNG" width = "550" height = "200" div align=center />
 
 **Infographic**
 
@@ -79,9 +79,9 @@
 最後我們有嵌入tableau這個程式將我們所有分析的結果做一個總表及互動，讓大家可以根據不同年份的資料，去選擇不同的客群，同時了解到交通事故在各個時段發生的案件量統計、針對不同性別與年齡層的分析。
 
 <div align=center>
-<img src="./imgs/operation.PNG" width = "450" height = "300" div align=center />
+<img src="./imgs/operation.PNG" width = "400" height = "300" div align=center />
 </div>
 
 <div align=center>
-<img src="./imgs/operation1.PNG" width = "450" height = "300" div align=center />
+<img src="./imgs/operation1.PNG" width = "400" height = "300" div align=center />
 </div>
