@@ -19,7 +19,7 @@
 
 網頁在封面之後，我們首先提出了這個網頁的主題發想，並搭配下圖的1-4的順序，依序介紹了我們這個團體的成員；分別有幾位是機車族或是搭乘運輸工具的通勤族；我們時常收到的長輩關心訊息以及針對交通事故的分析項目列了出來。
 
-<img src="./imgs/motivation.PNG" width = "500" height = "300" div align=center />
+<img src="./imgs/motivation.PNG" width = "400" height = "200" div align=center />
 
 <img src="./imgs/motivation1.PNG" width = "500" height = "300" div align=center />
 
@@ -31,9 +31,9 @@
 
 <img src="./imgs/analyze1.PNG" width = "500" height = "300" div align=center />
 
-<img src="./imgs/analyze2.PNG" width = "400" height = "200" div align=center />
+<img src="./imgs/analyze2.PNG" width = "500" height = "200" div align=center />
 
-<img src="./imgs/analyze3.PNG" width = "400" height = "200" div align=center />
+<img src="./imgs/analyze3.PNG" width = "500" height = "200" div align=center />
 
 **分析總結** 
 
@@ -47,9 +47,9 @@
 **互動式圖表** 
 
 此處我們嵌入了infogram這個程式來呈現互動式的圖表，我們可以透過點擊下方的分類決定是否讓這個類別出現在圖表的統計上。
-<img src="./imgs/interactive.PNG" width = "500" height = "300" div align=center />
+<img src="./imgs/interactive.PNG" width = "400" height = "300" div align=center />
 
-<img src="./imgs/interactive1.PNG" width = "500" height = "300" div align=center />
+<img src="./imgs/interactive1.PNG" width = "400" height = "300" div align=center />
 
 **結論** 
 
