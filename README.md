@@ -19,7 +19,9 @@
 
 網頁在封面之後，我們首先提出了這個網頁的主題發想，並搭配下圖的1-4的順序，依序介紹了我們這個團體的成員；分別有幾位是機車族或是搭乘運輸工具的通勤族；我們時常收到的長輩關心訊息以及針對交通事故的分析項目列了出來。
 
+<div align=center>
 <img src="./imgs/motivation.PNG" width = "300" height = "100" div align=center />
+</div>
 
 <img src="./imgs/motivation1.PNG" width = "500" height = "300" div align=center />
 
@@ -64,7 +66,9 @@
 
 另外我們有自製一份infographic去簡單的概括我們整個主題的內容與項目。
 
+<div align=center>
 <img src="./imgs/infographic.png" width = "200" height = "600" div align=center />
+</div>
 
 **實際操作**
 
