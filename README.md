@@ -64,7 +64,11 @@
 
 此處我們搭配一些政府的政策去分析交通事故的一個結論
 
-<img src="./imgs/conclusion.PNG" width = "550" height = "200" div align=center />
+<img src="./imgs/conclusion.PNG" width = "500" height = "300" div align=center />
+
+<img src="./imgs/conclusion1.PNG" width = "500" height = "300" div align=center />
+
+<img src="./imgs/conclusion2.PNG" width = "550" height = "200" div align=center />
 
 **Infographic**
 
