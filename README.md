@@ -19,7 +19,7 @@
 
 網頁在封面之後，我們首先提出了這個網頁的主題發想，並搭配下圖的1-4的順序，依序介紹了我們這個團體的成員；分別有幾位是機車族或是搭乘運輸工具的通勤族；我們時常收到的長輩關心訊息以及針對交通事故的分析項目列了出來。
 
-<img src="./imgs/motivation.PNG" width = "400" height = "200" div align=center />
+<img src="./imgs/motivation.PNG" width = "300" height = "100" div align=center />
 
 <img src="./imgs/motivation1.PNG" width = "500" height = "300" div align=center />
 
@@ -27,6 +27,7 @@
 
 接著分析資訊牆針對上下班、人口、死傷與機車事故之間的關係，做了多種樣式的分析圖。
 以下分別列出"總圖"、"事故比例"、"上下班時間"及"人口與死傷"的分類結果。
+
 <img src="./imgs/analyze.PNG" width = "500" height = "300" div align=center />
 
 <img src="./imgs/analyze1.PNG" width = "500" height = "300" div align=center />
