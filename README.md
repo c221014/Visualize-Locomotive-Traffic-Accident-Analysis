@@ -39,6 +39,7 @@
 **分析總結** 
 
 分析總結的部份我們統計了多種與交通事故有關的指標進行分析，在下圖中有六個類別的分析結果，右側皆有加上圖表的敘述，以及下方有可以點開互動式圖表的按鈕。
+
 <img src="./imgs/analyze_conclusion.PNG" width = "500" height = "300" div align=center />
 
 <img src="./imgs/analyze_conclusion1.PNG" width = "500" height = "300" div align=center />
@@ -48,6 +49,7 @@
 **互動式圖表** 
 
 此處我們嵌入了infogram這個程式來呈現互動式的圖表，我們可以透過點擊下方的分類決定是否讓這個類別出現在圖表的統計上。
+
 <img src="./imgs/interactive.PNG" width = "400" height = "300" div align=center />
 
 <img src="./imgs/interactive1.PNG" width = "400" height = "300" div align=center />
@@ -55,15 +57,19 @@
 **結論** 
 
 此處我們搭配一些政府的政策去分析交通事故的一個結論
-<img src="./imgs/conclusion.PNG" width = "500" height = "300" div align=center />
+
+<img src="./imgs/conclusion.PNG" width = "500" height = "200" div align=center />
 
 **Infographic**
+
 另外我們有自製一份infographic去簡單的概括我們整個主題的內容與項目。
-<img src="./imgs/infographic.PNG" width = "500" height = "300" div align=center />
+
+<img src="./imgs/infographic.png" width = "500" height = "300" div align=center />
 
 **實際操作**
 
 最後我們有嵌入tableau這個程式將我們所有分析的結果做一個總表及互動，讓大家可以根據不同年份的資料，去選擇不同的客群，同時了解到交通事故在各個時段發生的案件量統計、針對不同性別與年齡層的分析。
+
 <img src="./imgs/operation.PNG" width = "500" height = "300" div align=center />
 
 <img src="./imgs/operation1.PNG" width = "500" height = "300" div align=center />
