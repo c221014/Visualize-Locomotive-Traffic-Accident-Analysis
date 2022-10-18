@@ -66,7 +66,7 @@
 
 <img src="./imgs/conclusion.PNG" width = "500" height = "300" div align=center />
 
-<img src="./imgs/conclusion1.PNG" width = "500" height = "150" div align=center />
+<img src="./imgs/conclusion1.PNG" width = "550" height = "200" div align=center />
 
 <img src="./imgs/conclusion2.PNG" width = "600" height = "200" div align=center />
 
